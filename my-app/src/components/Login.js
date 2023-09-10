@@ -156,7 +156,7 @@ function LoginPage() {
       {page === 'search' && (
         <div>
           <h2>Welcome to the Search Page</h2>
-          {/* Add content for the search page here */}
+          
         </div>
       )}
     </Box>

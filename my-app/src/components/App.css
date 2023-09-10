@@ -1,0 +1,18 @@
+.train-card {
+  border: 1px solid #ccc;
+  padding: 16px;
+  margin: 16px;
+  border-radius: 4px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.train-list {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.train-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
