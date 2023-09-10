@@ -5,8 +5,11 @@ import LoginPage from './components/Login';
 function App() {
   return (
     <div className="App">
-      afford med test
+      <p>john doe railway services!</p>
+      <div>
       <LoginPage/>
+      </div>
+
     </div>
   );
 }
